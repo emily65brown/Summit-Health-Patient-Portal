@@ -1,7 +1,3 @@
-# Summit-Health-Patient-Portal
-
-### 3. `README.md`
-
 ```markdown
 # Summit Health Patient Portal
 

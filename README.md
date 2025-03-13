@@ -1,4 +1,3 @@
-```markdown
 # Summit Health Patient Portal
 
 ## Description
